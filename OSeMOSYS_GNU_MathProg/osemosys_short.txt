@@ -6,6 +6,8 @@
 #       - Parameter REMinProductionTarget no more indicated by user as % of demand for fuel f, but as % of production of fuel f.
 #		- Fixed bugs in storage equations.
 #
+#	- This version includes cascaded hydro generation facility modelling equations devveloped by Taco Niet.
+#
 # ============================================================================
 #
 #    Copyright [2010-2015] [OSeMOSYS Forum steering committee see: www.osemosys.org]
