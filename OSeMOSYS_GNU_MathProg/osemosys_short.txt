@@ -52,8 +52,8 @@ set DAYTYPE;
 set DAILYTIMEBRACKET;
 set FLEXIBLEDEMANDTYPE;
 set STORAGE;
-# Hydro Related Sets
-set RESERVOIR;
+#  Hydro Related Sets
+set  RESERVOIR;
 #
 #####################
 #    Parameters     #
